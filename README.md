@@ -3,7 +3,7 @@
 - ⚡ I'm interested in IT and everything in its orbit.
 - 🔭 I'm currently working on my personal projects.
 - 🌱 I’m currently learning everything in frontend.
-- 👯 I’m looking for a company willing to offer me a placement among their developers.
+
 
 ### Languages and Tools:
 
