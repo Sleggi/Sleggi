@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I'm interested in IT and everything in its orbit.
-- 🔭 I'm currently working at Yelm as a junior frontend developer.
+- 🔭 I'm currently working at Yelm Media as a junior frontend developer.
 - 🌱 I’m currently learning everything in frontend.
 
 
