@@ -10,7 +10,7 @@
 
 ###
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleggi&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleggi&theme=dracula&show_icons=true)
 
 ### Languages and Tools:
 
