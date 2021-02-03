@@ -17,5 +17,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleggi)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleggi&theme=dracula&show_icons=true)
 
 
