@@ -4,6 +4,9 @@
 - 🔭 I'm currently working at Yelm Media as a junior frontend developer.
 - 🌱 I’m currently learning everything in frontend.
 
+### Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Sleggi&theme=dracula&show_icons=true)
 
 ### Languages and Tools:
 
@@ -18,8 +21,6 @@
 
 
 
-### Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Sleggi&theme=dracula&show_icons=true)
 
 
