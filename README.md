@@ -6,7 +6,7 @@
 
 ### 
 
-![](https://github-readme-stats.vercel.app/api?username=Sleggi&count_private=true&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Sleggi&count_private=true&hide=contribs,stars&theme=dracula&show_icons=true)
 
 ###
 
