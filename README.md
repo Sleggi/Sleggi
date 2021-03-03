@@ -28,8 +28,7 @@ Get in touch - https://t.me/kirillsoltan
 <br/>
 
 <summary>Language Statisctics...</summary><br/>
-<p align = 'center'>
-  <img src="https://wakatime.com/share/@563bc805-0b8a-4d26-bf0b-7670d022f7fe/0072b980-5f41-49bc-a892-f7e742a9a397.svg" height=400"/>
-</p>
+ <img src="https://wakatime.com/share/@563bc805-0b8a-4d26-bf0b-7670d022f7fe/0072b980-5f41-49bc-a892-f7e742a9a397.svg" height=400"/>
+
 
 
