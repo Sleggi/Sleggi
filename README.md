@@ -29,7 +29,7 @@ Get in touch - https://t.me/kirillsoltan
 
 ### Languages Stats:
 <p align = "left">
-<img src="https://wakatime.com/share/@563bc805-0b8a-4d26-bf0b-7670d022f7fe/0072b980-5f41-49bc-a892-f7e742a9a397.svg" height=400"/>
+<img src="https://wakatime.com/share/@563bc805-0b8a-4d26-bf0b-7670d022f7fe/aa042a5f-90bd-4313-a4a6-eb69ad982836.svg" height=400"/>
 </p>                                                                                                                              
 
 
