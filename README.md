@@ -26,11 +26,7 @@ Get in touch - https://t.me/kirillsoltan
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <br/>
-
-### Languages Stats:
-<p align = "left">
-<img src="https://wakatime.com/share/@563bc805-0b8a-4d26-bf0b-7670d022f7fe/838bde41-d223-4436-b2c9-0d0e66f671a0.svg" height=400"/>
-</p>                                                                                                                              
+                                                                                                                        
 
 
 
