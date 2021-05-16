@@ -1,3 +1,7 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sleggi)
+
+###
+
 ### Hi there 👋
 
 - ⚡ I'm interested in IT and everything in its orbit.
