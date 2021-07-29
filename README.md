@@ -6,7 +6,6 @@
 ### Hi there 👋
 
 - ⚡ I'm interested in IT and everything in its orbit.
-- 💻 Currently working at Yelm Media - https://yelm.io as a front-end developer.
 - 🏆 I’m currently learning everything in frontend.
 
 Get in touch - https://t.me/kirillsoltan
