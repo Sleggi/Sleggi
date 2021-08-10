@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - ⚡ I'm interested in IT and everything in its orbit.
-- 🏆 I’m currently learning everything in frontend.
+- 🏆 I’m currently learning everything algorithms and data structures.
 
 Get in touch - https://t.me/kirillsoltan
 
