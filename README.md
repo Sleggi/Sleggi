@@ -8,8 +8,8 @@
 - ⚡ I'm interested in IT and everything in its orbit.
 - 🏆 I’m currently learning everything algorithms and data structures.
 
-Get in touch - https://t.me/kirillsoltan
-You can also find me here - https://gitlab.com/Sleggi
+- Get in touch - https://t.me/kirillsoltan
+- You can also find me here - https://gitlab.com/Sleggi
 
 
 ### 
