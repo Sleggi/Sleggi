@@ -4,10 +4,6 @@
 ###
 
 ### Hi there 👋
-
-- ⚡ I'm interested in IT and everything in its orbit.
-- 🏆 I’m currently learning algorithms and data structures.
-
 - Get in touch - https://t.me/kirillsoltan
 
 
@@ -32,11 +28,6 @@
 
 <br/>
 
-###
-
-Yelm.Aviato - frontend [![wakatime](https://wakatime.com/badge/github/yelmio/Yelm.Aviato.svg)](https://wakatime.com/badge/github/yelmio/Yelm.Aviato)
-####
-Yelm.Admin - frontend [![wakatime](https://wakatime.com/badge/github/Sleggi/yelm-admin.svg)](https://wakatime.com/badge/github/Sleggi/yelm-admin)                                                                                                          
 
 
 
