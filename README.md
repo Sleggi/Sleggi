@@ -9,7 +9,6 @@
 - 🏆 I’m currently learning algorithms and data structures.
 
 - Get in touch - https://t.me/kirillsoltan
-- You can also find me here - https://gitlab.com/Sleggi
 
 
 ### 
