@@ -4,7 +4,7 @@
 ###
 
 ### Hi there 👋
-- Get in touch - https://t.me/kirillsoltan
+- Get in touch - https://t.me/slegfrancisko
 
 ### Languages and Tools:
 
